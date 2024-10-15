@@ -1,7 +1,7 @@
 # Conversor de unidades Java
 ## Sobre el proyecto
 Este proyecto fue realizado como un challenge de programación como parte de mi certificación en desarrollo backend con Java, del programa [Oracle Next Education](https://www.oracle.com/mx/education/oracle-next-education/). Se trata de un conversor de distintos tipos de unidades (entre ellas un convertidor de divisas en tiempo real) que fue desarrollado desde cero, haciendo únicamente uso de JAVA y empleando la extención WindowsBuilder para crear una GUI de escritorio.
->Si te intereza conocer más sobre mí y mis proyectos, te invito a visitar mi sitio web https://josedelucas.netlify.app/#about
+
 
 
 
@@ -136,5 +136,5 @@ public double convertirValores(double C,String tipo1, String tipo2, int index1, 
  2. Instalar las dos librerías requeridas [org.JSON](https://mvnrepository.com/artifact/org.json/json) y [Apache Commons IO](https://commons.apache.org/proper/commons-io/).
  3. Ejecutar la clase Main desde el IDE de tu preferencia.
  
- 
+                                         Cread By DAYLER MEDRANO   2024
  
