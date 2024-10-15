@@ -135,6 +135,7 @@ public double convertirValores(double C,String tipo1, String tipo2, int index1, 
  1. Clonar el proyecto en tu computadora.
  2. Instalar las dos librerías requeridas [org.JSON](https://mvnrepository.com/artifact/org.json/json) y [Apache Commons IO](https://commons.apache.org/proper/commons-io/).
  3. Ejecutar la clase Main desde el IDE de tu preferencia.
- 
-                                         Cread By DAYLER MEDRANO   2024
+
+
+Creado por DAYLER MEDRANO   2024
  
